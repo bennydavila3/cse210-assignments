@@ -3,8 +3,8 @@ using System.Dynamic;
 
 class Fraction
 {
-    public int _top;
-    public int _bottom;
+    private int _top;
+    private int _bottom;
 
     public Fraction()
     {
