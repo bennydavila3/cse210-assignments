@@ -212,7 +212,7 @@
         },
 
         {
-            "name": "Foundation 3 (Exercise)",
+            "name": "Foundation 3 (Event Planning)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build-foundation-Foundation3",
