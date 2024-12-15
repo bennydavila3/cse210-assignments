@@ -224,5 +224,18 @@
             "problemMatcher": "$msCompile"
         },
 
+        {
+            "label": "build-foundation-Foundation4",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/foundation/Foundation4/Foundation4.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+
     ]
 }
