@@ -224,5 +224,18 @@
             "stopAtEntry": false
         },
 
+        {
+            "name": "Foundation 4 (Exercise Tracking)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-foundation-Foundation4",
+            "program": "${workspaceFolder}/foundation/Foundation4/bin/Debug/net8.0/Foundation3.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/foundation/Foundation4",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
     ]
 }
